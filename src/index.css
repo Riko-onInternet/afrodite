@@ -1,0 +1,173 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.NewRoman {
+  font-family: "Times New Roman", Times, serif !important;
+}
+
+.Jackie {
+  font-family: "Jackie", sans-serif !important;
+}
+
+.Oswald {
+  font-family: "Oswald", sans-serif !important;
+}
+
+@font-face {
+  font-family: "Jackie";
+  src: local("Jackie"), url(./assets/font/jackie-webfont.woff) format("woff");
+}
+
+@font-face {
+  font-family: "Oswald";
+  src: local("Oswald"),
+    url(./assets/font/oswald-variablefont_wght-webfont.woff) format("woff");
+}
+
+html {
+  user-select: none;
+}
+
+img {
+  pointer-events: none;
+}
+
+.img-home,
+.card1,
+.card2,
+.BMIigm,
+.hero-bg, 
+.hero-bg2 {
+  background-repeat: no-repeat;
+  background-position: bottom center;
+  background-size: cover;
+}
+
+.img-home {
+  background-image: url(https://bellafewdgfwsdg.sirv.com/BANNER_HP_LANIDO_1944x.webp);
+}
+
+.card1 {
+  background-image: url(https://bellafewdgfwsdg.sirv.com/isIBFVj.jpg);
+  z-index: 0;
+}
+
+.card2 {
+  background-image: url(https://bellafewdgfwsdg.sirv.com/ABYSS_2_1944x.jpg);
+}
+
+.hero-bg {
+  background-image: url(https://bellafewdgfwsdg.sirv.com/WOMEN_EDITORIALISATION_NOVEMBRE_013-192_CROISSANT-BAG_LVCOM_2048x1152_DI3.avif);
+}
+
+.hero-bg2 {
+  background-image: url(https://bellafewdgfwsdg.sirv.com/push_1_DI3.jpg);
+}
+
+.BMIigm {
+  background-image: url(https://bellafewdgfwsdg.sirv.com/CATEGORY_CRUISE24_IMG11_LVCOM_2048x1152_DI3.webp);
+}
+
+.grade {
+  background: linear-gradient(0deg, #030712, transparent 50%);
+}
+
+.bg-blur {
+  backdrop-filter: blur(5px);
+}
+
+.zsb {
+  backdrop-filter: blur(5px);
+}
+
+.fill-logo {
+  fill: var(--fill-logo);
+}
+
+html[class="dark:bg-gray-950 dark"] {
+  --fill-logo: #fff;
+}
+
+html[class="dark:bg-gray-950"] {
+  --fill-logo: #000;
+}
+
+.radio-checked:checked {
+  box-shadow: 0 0 0 0px var(--fallback-b1, oklch(var(--b1) / 1)) inset,
+    0 0 0 3px var(--fallback-b1, oklch(var(--b1) / 1)) inset !important;
+}
+
+.color-correction-swiper .swiper-button-prev,
+.color-correction-swiper .swiper-button-next {
+  color: #000 !important;
+}
+
+.color-correction-swiper .swiper-pagination-bullet-active {
+  background-color: #000 !important;
+}
+
+.btn-none {
+  box-shadow: none;
+  border: 0;
+  background-color: transparent;
+  outline: none;
+}
+
+.btn-none:hover {
+  background-color: transparent;
+}
+
+.bg-000 {
+  background-color: #000000;
+}
+
+.bg-f00 {
+  background-color: rgb(141, 10, 10);
+}
+
+.bg-0f0 {
+  background-color: rgb(154, 240, 154);
+}
+
+.column-count-2 {
+  column-count: 2;
+}
+
+html[class="dark:bg-gray-950 dark"] .color-correction-swiper .swiper-pagination-bullet-active {
+  background-color: #fff !important;
+}
+
+/* ----- Srollbar ----- */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-button {
+  width: 0;
+  height: 0;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #d1d5db;
+  border: 0;
+}
+
+::-webkit-scrollbar-track {
+  background: #f3f4f6;
+  border: 0;
+}
+
+::-webkit-scrollbar-corner {
+  background: 0 0;
+}
+
+
+
+html[class="dark:bg-gray-950 dark"] ::-webkit-scrollbar-thumb {
+  background: #374151;
+}
+
+html[class="dark:bg-gray-950 dark"] ::-webkit-scrollbar-track {
+  background: #111827;
+}

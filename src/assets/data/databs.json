@@ -1,0 +1,314 @@
+{
+  "prods": [
+    {
+      "id": "01",
+      "nome": "GG MARMONT MISURA PICCOLA",
+      "color": "beige",
+      "colorPrint": "Beige chiaro",
+      "img": "https://bellafewdgfwsdg.sirv.com/443497_AABZC_1712_001_063_0008_Light.avif",
+      "year": 2020,
+      "prize": 2100
+    },
+    {
+      "id": "02",
+      "nome": "GG MARMONT MISURA PICCOLA",
+      "color": "verde",
+      "colorPrint": "Verde chiaro",
+      "img": "https://bellafewdgfwsdg.sirv.com/447632_AABZB_1712_001_067_0000_Light.avif",
+      "year": 2021,
+      "prize": 1490
+    },
+    {
+      "id": "03",
+      "nome": "GG MARMONT MISURA PICCOLA",
+      "color": "nero",
+      "colorPrint": "Nero",
+      "img": "https://bellafewdgfwsdg.sirv.com/443497_DTDIT_1000_001_063_0000_Light.avif",
+      "year": 2010,
+      "prize": 2000
+    },
+    {
+      "id": "04",
+      "nome": "OPHIDIA GG MISURA PICCOLA",
+      "color": "beige",
+      "colorPrint": "Beige chiaro",
+      "img": "https://bellafewdgfwsdg.sirv.com/772061_FAC8G_5701_001_073_0000_Light.avif",
+      "year": 2015,
+      "prize": 1790
+    },
+    {
+      "id": "05",
+      "nome": "GUCCI HORSEBIT",
+      "color": "nero",
+      "colorPrint": "Nero",
+      "img": "https://bellafewdgfwsdg.sirv.com/774209_1DB0N_1000_001_058_0000_Light.avif",
+      "year": 1995,
+      "prize": 2500
+    },
+    {
+      "id": "06",
+      "nome": "OPHIDIA GG MISURA PICCOLA",
+      "color": "beige",
+      "colorPrint": "Beige chiaro",
+      "img": "https://bellafewdgfwsdg.sirv.com/503877_FAC8G_5701_001_100_0000_Light.avif",
+      "year": 2022,
+      "prize": 1790
+    },
+    {
+      "id": "07",
+      "nome": "OPHIDIA GG MINI",
+      "color": "verde",
+      "colorPrint": "Verde chiaro",
+      "img": "https://bellafewdgfwsdg.sirv.com/772053_FAC8K_3446_009_070_0000_Light.avif",
+      "year": 2022,
+      "prize": 1690
+    },
+    {
+      "id": "08",
+      "nome": "SHOPPING OPHIDIA GG MISURA GRANDE",
+      "color": "verde",
+      "colorPrint": "Verde chiaro",
+      "img": "https://bellafewdgfwsdg.sirv.com/772184_FAC8Q_3446_007_100_0000_Light.webp",
+      "year": 2022,
+      "prize": 1980
+    },
+    {
+      "id": "09",
+      "nome": "GUCCI JACKIE MISURA PICCOLA",
+      "color": "rosso",
+      "colorPrint": "Rosso Pelle",
+      "img": "https://bellafewdgfwsdg.sirv.com/782849_AADDX_6449_001_069_0000_Light.webp",
+      "year": 2024,
+      "prize": 2700
+    },
+    {
+      "id": "10",
+      "nome": "GUCCI JACKIE MISURA PICCOLA",
+      "color": "arancione",
+      "colorPrint": "Vernice arancione",
+      "img": "https://bellafewdgfwsdg.sirv.com/782849_AADHF_7541_001_069_0000_Light-Borsa-a-spalla-Gucci-Jackie-misura-piccola.avif",
+      "year": 2024,
+      "prize": 2700
+    },
+    {
+      "id": "11",
+      "nome": "MINI BORSA A SECCHIELLO",
+      "color": "rosso",
+      "colorPrint": "Rosso Pelle",
+      "img": "https://bellafewdgfwsdg.sirv.com/782908_AADDY_6449_001_075_0000_Light-Mini-borsa-a-secchiello.avif",
+      "year": 2019,
+      "prize": 1980
+    },
+    {"id": "12",
+      "nome": "BORSA A SECCHIELLO",
+      "color": "beige",
+      "colorPrint": "Beige ebano",
+      "img": "https://bellafewdgfwsdg.sirv.com/782911_FADAC_9762_001_082_0000_Light.avif",
+      "year": 2020,
+      "prize": 2200
+    },
+    {
+      "id": "13",
+      "nome": "BORSA A SECCHIELLO",
+      "color": "beige",
+      "colorPrint": "Beige blu",
+      "img": "https://bellafewdgfwsdg.sirv.com/782911_FADAC_8559_001_082_0000_Light-Borsa-a-secchiello-Original-GG-misura-media.webp",
+      "year": 2020,
+      "prize": 2200
+    },
+    {
+      "id": "14",
+      "nome": "BORSA SHOPPING GUCCI DIANA",
+      "color": "cuoio",
+      "colorPrint": "Pelle color cuoio",
+      "img": "https://bellafewdgfwsdg.sirv.com/678842_U3ZDT_2549_007_085_0000_Light.webp",
+      "year": 2024,
+      "prize": 4100
+    },
+    {
+      "id": "15",
+      "nome": "GUCCI JACKIE MISURA MEDIA",
+      "color": "marrone",
+      "colorPrint": "Pelle marrone",
+      "img": "https://bellafewdgfwsdg.sirv.com/636709_10O0G_2361_001_087_0000_Light-Borsa-a-spalla-Jackie-1961-misura-piccola.avif",
+      "year": 2022,
+      "prize": 2900
+    },
+    {
+      "id": "16",
+      "nome": "OPHIDIA GG MISURA PICCOLA",
+      "color": "verde",
+      "colorPrint": "Verde chiaro",
+      "img": "https://bellafewdgfwsdg.sirv.com/784753_FAC8K_3446_001_058_0000_Light.avif",
+      "year": 2022,
+      "prize": 1750
+    },
+    {
+      "id": "17",
+      "nome": "OPHIDIA GG MISURA PICCOLA",
+      "color": "beige",
+      "colorPrint": "Beige chiaro",
+      "img": "https://bellafewdgfwsdg.sirv.com/503877_FAC8G_5701_001_100_0000_Light.avif",
+      "year": 2022,
+      "prize": 1690
+    },
+    {
+      "id": "18",
+      "nome": "MINI BORSA GUCCI JACKIE NOTTE",
+      "color": "giallo",
+      "colorPrint": "Vernice gialla",
+      "img": "https://bellafewdgfwsdg.sirv.com/782889_0P50G_7550_001_060_0000_Light.avif",
+      "year": 2022,
+      "prize": 2980
+    },
+    {
+      "id": "19",
+      "nome": "MINI BORSA OPHIDIA GG",
+      "color": "beige",
+      "colorPrint": "Beige chiaro",
+      "img": "https://bellafewdgfwsdg.sirv.com/658551_FAC8G_5701_001_056_0000_Light.avif",
+      "year": 2018,
+      "prize": 850
+    },
+    {
+      "id": "20",
+      "nome": "MINI BORSA OPHIDIA GG",
+      "color": "verde",
+      "colorPrint": "Verde chiaro",
+      "img": "https://bellafewdgfwsdg.sirv.com/658551_FAC8H_3446_001_056_0000_Light.avif",
+      "year": 2018,
+      "prize": 850
+    },
+    {
+      "id": "21",
+      "nome": "MINI BORSA OPHIDIA",
+      "color": "suprime",
+      "colorPrint": "Supreme Gold",
+      "img": "https://bellafewdgfwsdg.sirv.com/764960_KAAAH_9746_001_056_0000_Light.avif",
+      "year": 2024,
+      "prize": 690
+    },
+    {
+      "id": "22",
+      "nome": "MINI BORSA GUCCI HORSEBIT",
+      "color": "cuoio",
+      "colorPrint": "Pelle color cuoio",
+      "img": "https://bellafewdgfwsdg.sirv.com/625615_92TCG_8563_001_064_0000_Light.avif",
+      "year": 1955,
+      "prize": 950
+    },
+    {
+      "id": "23",
+      "nome": "MINI BORSA A SECCHIELLO OPHIDIA IN GG",
+      "color": "suprime",
+      "colorPrint": "Supreme",
+      "img": "https://bellafewdgfwsdg.sirv.com/550620_96I3B_8745_001_050_0000_Light.avif",
+      "year": 2003,
+      "prize": 1390
+    },
+    {
+      "id": "24",
+      "nome": "MINI BORSA A MANO GG MARMONT",
+      "color": "nero",
+      "colorPrint": "Nero",
+      "img": "https://bellafewdgfwsdg.sirv.com/547260_DTDIT_1000_001_068_0025_Light.avif",
+      "year": 2020,
+      "prize": 1980
+    },
+    {
+      "id": "25",
+      "nome": "BORSA SHOPPING OPHIDIA MISURA MEDIA",
+      "color": "nero",
+      "colorPrint": "Nero",
+      "img": "https://bellafewdgfwsdg.sirv.com/772229_AAC1B_1000_001_100_0000_Light-Borsa-shopping-Ophidia-misura-media.avif",
+      "year": 2000,
+      "prize": 3500
+    },
+    {
+      "id": "26",
+      "nome": "BORSA SHOPPING GUCCI DIANA MISURA PICCOLA",
+      "color": "nero",
+      "colorPrint": "Nero",
+      "img": "https://bellafewdgfwsdg.sirv.com/702721_AAA5Y_1060_007_076_0000_Light.avif",
+      "year": 2001,
+      "prize": 3500
+    },
+    {
+      "id": "27",
+      "nome": "MINI BORSA A SPALLA ROTONDA OPHIDIA",
+      "color": "suprime",
+      "colorPrint": "Supreme",
+      "img": "https://bellafewdgfwsdg.sirv.com/550618_96I3B_8745_001_061_0000_Light.avif",
+      "year": 2024,
+      "prize": 1400
+    },
+    {
+      "id": "28",
+      "nome": "MINI BORSA A SECCHIELLO OPHIDIA",
+      "color": "marrone",
+      "colorPrint": "Pelle marrone",
+      "img": "https://bellafewdgfwsdg.sirv.com/760201_AACP4_2342_001_080_0000_Light.avif",
+      "year": 1990,
+      "prize": 1350
+    },
+    {
+      "id": "29",
+      "nome": "CINTURA MULTIUSO OPHIDIA",
+      "color": "suprime",
+      "colorPrint": "Supreme",
+      "img": "https://bellafewdgfwsdg.sirv.com/698805_96IWG_8745_002_088_0000_Light.avif",
+      "year": 2023,
+      "prize": 950
+    }
+  ],
+  "linkHeader": [
+    {
+      "textContent": "Home",
+      "href": ""
+    },
+    {
+      "textContent": "Tutte le borse",
+      "href": "products"
+    },
+    {
+      "textContent": "Materiali utilizzati",
+      "href": "material"
+    },
+    {
+      "textContent": "Contatti",
+      "href": "contact"
+    },
+    {
+      "textContent": "Info",
+      "href": "about"
+    }
+  ],
+  "linkFooter" : [
+    {
+      "textContent": "Home",
+      "href": "",
+      "class": "p-2"
+    },
+    {
+      "textContent": "Tutte le borse",
+      "href": "products",
+      "class": "p-2"
+    },
+    {
+      "textContent": "Materiali utilizzati",
+      "href": "material",
+      "class": "p-2"
+    },
+    {
+      "textContent": "Contatti",
+      "href": "contact",
+      "class": "p-2"
+    },
+    {
+      "textContent": "Info",
+      "href": "about",
+      "class": "p-2"
+    }
+  ]
+}
+
